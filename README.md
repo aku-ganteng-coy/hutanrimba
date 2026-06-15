@@ -1,1 +1,107 @@
-# hutanrimba
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GAMBAR KEREN</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      min-height: 100vh;
+      background: #080b34;
+      font-family: Arial, Helvetica, sans-serif;
+      color: #ffffff;
+    }
+
+    .page {
+      width: 100%;
+      padding: 20px 16px 27px;
+    }
+
+    .container {
+      max-width: 1140px;
+      margin: 0 auto;
+    }
+
+    .banner {
+      width: 100%;
+      display: block;
+      border: none;
+    }
+
+    .link-wrapper {
+      margin-top: 112px;
+    }
+
+    .btn-link {
+      width: 100%;
+      height: 50px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-decoration: none;
+      color: #ffffff;
+      font-size: 18px;
+      font-weight: 700;
+      border-radius: 4px;
+      border: 2px solid #ff1111;
+      box-shadow: 0 0 6px rgba(255, 0, 0, 0.45);
+      transition: 0.25s ease;
+    }
+
+    .btn-link:hover {
+      transform: translateY(-2px);
+      filter: brightness(1.1);
+    }
+
+    .btn-dark {
+      background: #1d2839;
+    }
+
+    .btn-red {
+      background: #e31318;
+      margin-top: 30px;
+    }
+
+    @media (max-width: 768px) {
+      .page {
+        padding: 15px 10px 22px;
+      }
+
+      .link-wrapper {
+        margin-top: 60px;
+      }
+
+      .btn-link {
+        height: 48px;
+        font-size: 16px;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .link-wrapper {
+        margin-top: 38px;
+      }
+
+      .btn-link {
+        height: 46px;
+        font-size: 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <section class="container">
+<a href="https://mpotwin.com/register/JG0NRLDW" target="_blank">
+    <img src="https://aku-ganteng-coy.github.io/hutanrimba/daftardisini.png" alt="MPO Twin Banner" class="banner">
+  </a>
+    </section>
+  </main>
+</body>
+</html>
